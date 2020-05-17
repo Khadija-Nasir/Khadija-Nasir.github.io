@@ -31,25 +31,25 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-   facebook: jamilusalism
+   facebook: khadijahnasiradam
   # hackerrank: your_username
-   instagram: jamilusalis
+   instagram: ummy_0251
   # keybase: your_username
-   linkedin: jamilusalis
+   linkedin: khadijanasiradam
   # mastodon: your_username
-   medium: jamilusalis
-   stackoverflow: 13030129
-   telegram: jamilusalis
-   twitter: jamilusalism
+   #medium: jamilusalis
+  # stackoverflow: 13030129
+   telegram: khadijaadamnasir
+   #twitter: jamilusalism
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-   youtube: JamiluSalis
+  # youtube: JamiluSalis
 
 topics:
-  - name: Azure
-    web_url: https://github.com/topics/azure
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
     
   - name: AWS
     web_url: https://github.com/topics/aws
